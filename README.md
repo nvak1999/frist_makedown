@@ -2,7 +2,8 @@
 
 # Introduce
 
--- Khuong
+-- Khuong.
+
 -- Study at Cao Thang high School
 
 # Hobbies
