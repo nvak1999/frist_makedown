@@ -1,13 +1,19 @@
 "# frist_makedown"
 
-# Introduce
+## Introduce
 
--- Khuong.
+Khuong.
 
--- Study at Cao Thang high School
+Study at Cao Thang high School.
 
-# Hobbies
+## Hobbies
 
--- Play video game
+Play video game.
 
-# Experience
+## Experience
+
+Know about C# , C++ , android , java .
+
+## worried
+
+My english is not good.
