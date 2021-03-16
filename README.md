@@ -2,18 +2,26 @@
 
 ## Introduce
 
-Khuong.
+---
 
-Study at Cao Thang high School.
+- Khuong.
+
+- Study at Cao Thang high School.
 
 ## Hobbies
 
-Play video game.
+---
+
+- Play video game.
 
 ## Experience
 
-Know about C# , C++ , android , java .
+---
+
+- Know about C# , C++ , android , java .
 
 ## worried
 
-My english is not good.
+---
+
+- My english is not good.
