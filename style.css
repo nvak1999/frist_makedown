@@ -1,0 +1,100 @@
+p {
+  color: #2c3e50;
+  font-style: italic;
+  font-size: 20px;
+  font-family: Verdana;
+}
+#para1 {
+  color: #2ecc71;
+}
+.header {
+  color: #e67e22;
+}
+h1 {
+  background-color: liner;
+}
+
+.header {
+  visibility: hidden;
+  display: none;
+}
+
+body {
+  background: radial-gradient(black 3px, transparent 4px),
+    radial-gradient(black 3px, transparent 4px),
+    linear-gradient(#fff 4px, transparent 0),
+    linear-gradient(
+      45deg,
+      transparent 74px,
+      transparent 75px,
+      #a4a4a4 75px,
+      #a4a4a4 76px,
+      transparent 77px,
+      transparent 109px
+    ),
+    linear-gradient(
+      -45deg,
+      transparent 75px,
+      transparent 76px,
+      #a4a4a4 76px,
+      #a4a4a4 77px,
+      transparent 78px,
+      transparent 109px
+    ),
+    #fff;
+  background-size: 109px 109px, 109px 109px, 100% 6px, 109px 109px, 109px 109px;
+  background-position: 54px 55px, 0px 0px, 0px 0px, 0px 0px, 0px 0px;
+}
+#assignment1 {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+p::first-letter {
+  font-size: 200%;
+  color: #27ae60;
+}
+a:link {
+  color: green;
+}
+a {
+  color: red;
+}
+a:hover {
+  color: green;
+}
+a:active {
+  color: blue;
+}
+a:visited:hover:active {
+  color: yellow;
+}
+
+#assignment3 li {
+  font-size: 16px;
+}
+
+#assignment5 div.box {
+  border: 50px;
+  padding: 50px;
+  width: 50%;
+  line-height: 20px;
+  position: relative;
+  border: 20px solid #e74c3c;
+}
+
+#assignment5 div.box {
+  border: 50px;
+  width: 20%;
+  line-height: 20px;
+  position: relative;
+  border: 35px solid #e74c3c;
+}
+#assignment5 div.boxcontent {
+  border: 50px;
+  width: 50%;
+  padding: 50px;
+  line-height: 20px;
+  position: relative;
+  border: 35px solid #2ecc71;
+}
